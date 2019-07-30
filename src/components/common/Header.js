@@ -42,18 +42,13 @@ function Header() {
             </div>
           </div>
         </div>
-
-        <div className="orglabel"><span>i</span>
-          <div className="orgdrop" data-id="31B8C95AF43AF823802582750051E745">
-            <div className="orgdrop-col">
-              <ul>
-                <li data-ida="A2F12E4D233698BC802582750051A388;0" className="">
-                  <a href="#/">Information</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
         
+        <div className="orglabel"><span>People</span></div>
+
+        <div className="orglabel"><span>About</span></div>
+
+        <div className="orglabel"><span>Contact</span></div>
+
         <div className="sc-search-wrap">
           <input id="scsearch" placeholder="Search..." className="ui-autocomplete-input"
             autoComplete="off" />
