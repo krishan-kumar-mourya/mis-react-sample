@@ -21,8 +21,6 @@ function Header() {
                   <a href="#/">Product #4</a></li>
                 <li data-ida="37A1EA60CBFB89D8802582500044905A;0">
                   <a href="#/">Product #5</a></li>
-                <li data-ida="9F819668F2180A998025824B003E9A83;0">
-                </li>
               </ul>
             </div>
           </div>
@@ -36,8 +34,6 @@ function Header() {
                   <a href="#/">Administration</a></li>
                 <li data-ida="94F314E374FEA9008025827400637998;0">
                   <a href="#/">Agriculture</a></li>
-                <li data-ida="35AE106DFCFE7C6C8025827400637FD9;0">
-                </li>
               </ul>
             </div>
           </div>
