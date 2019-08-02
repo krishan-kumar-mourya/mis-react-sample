@@ -1243,7 +1243,7 @@ col.import-table-fss{min-width:38px;width:38px}
 col.import-table-main{min-width:703px;width:703px}
 table.activity-table td.selects{padding:1px 4px}
 .main-logo-wrap{padding-left:5px;padding-right:5px}
-.orglabel{position:relative;float:left;height:28px;margin:8px 5px 0;padding:6px 8px;font-weight:700;text-decoration:none;cursor:pointer} /*DFR1710*/
+.orglabel{position:relative;float:left;height:28px;margin:8px 5px 0;padding:6px 5px;font-weight:700;text-decoration:none;cursor:pointer} /*DFR1710*/
 .rtl .orglabel,.rtl .orgdrop-col,.rtl .sc-search-wrap{float:right}
 #nav-wrapper:not(.blurred) .orglabel:hover,.orgdrop{background-color:#e4e4e4}
 .orgdrop{display:none;position:absolute;left:0;top:28px;z-index:1400;padding:12px}
